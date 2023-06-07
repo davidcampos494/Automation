@@ -12,7 +12,7 @@ Scenario: CT001: Validating Link "Have an account?"
 Scenario: CT002: Clicking the Sign Up Button Without Filling in Any Fields
         Given Didn't fill in any fields
         When Click on the Sign Up Button
-        Then Must display the message "Preencha este campo." in the field "Your Name"
+        Then Must display the message "Preencha este campo." in the field Your Name
 
 Scenario: CT003: Validate Field Required Field of Field "Your name"
         Given fill in the email field "teste@teste.com"

@@ -22,7 +22,7 @@ Scenario: CT003: Validating Valid "Email" Wrong "Password"
         Then Should show an error message
 
 Scenario: CT004: Invalid "Email" and Valid "Password"
-        Given fill in the email field "testeemail@teste2.com.br"
+        Given fill in the invalid email
         And fill in the password field "teste"
         When Click on the Sign In Button
         Then Should show an error message

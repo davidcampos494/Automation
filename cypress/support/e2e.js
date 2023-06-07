@@ -20,10 +20,10 @@ import 'cypress-plugin-api'
 require('@cypress/xpath');
 
 Cypress.SelectorPlayground.defaults({
-  selectorPriority: ['data-testid', 'data-qa', 'data-cy', 'data-test', 'id', 'class',  'attributes', 'tag', 'attributes', 'nth-child']
+  selectorPriority: ['data-testid', 'data-qa', 'data-cy', 'data-test', 'id', 'class', 'attributes', 'tag', 'attributes', 'nth-child']
 })
 
-  
+
 
 
 

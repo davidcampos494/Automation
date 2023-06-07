@@ -1,0 +1,982 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Validating Home Page",
+    "line": 1,
+    "id": "validating-home-page",
+    "tags": [],
+    "uri": "homePage.feature",
+    "elements": [
+      {
+        "id": "validating-home-page;ct001:-validating-home-page-title",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "CT001: Validating Home Page Title",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 3202000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "In the upper left corner you should display the title \"conduit\"",
+            "result": {
+              "status": "passed",
+              "duration": 85000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct002:-validating-field\"-global-feed\"",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "CT002: Validating Field\" Global Feed\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 13,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1264000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "It must present the field \"Global Feed\"",
+            "result": {
+              "status": "passed",
+              "duration": 43000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct003:-validate-link-when-clicking-on-post-author-name",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "CT003: Validate Link When Clicking on Post Author Name",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "Click on the name of the author \"Anah Benešová\" of the post",
+            "result": {
+              "status": "passed",
+              "duration": 1264000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "You should load a new page with the author's name \"Anah Benešová\" as the title",
+            "result": {
+              "status": "passed",
+              "duration": 35000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Below it should present 2 tabs \"Articles\" and \"Favorites\"",
+            "result": {
+              "status": "passed",
+              "duration": 52000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Must display all posts related to the selected author \"Anah Benešová\"",
+            "result": {
+              "status": "passed",
+              "duration": 55000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct004:-validate-link-when-clicking-on-post-author-image",
+        "keyword": "Scenario",
+        "line": 27,
+        "name": "CT004: Validate Link When Clicking on Post Author Image",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 28,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1313000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "Click on the image next to the author \"Anah Benešová\" of the post",
+            "result": {
+              "status": "passed",
+              "duration": 1163000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 31,
+            "name": "You should load a new page with the author's name \"Anah Benešová\" as the title",
+            "result": {
+              "status": "passed",
+              "duration": 23000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Below it should present 2 tabs \"Articles\" and \"Favorites\"",
+            "result": {
+              "status": "passed",
+              "duration": 47000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct005:-accessing-the-\"sign-in-to-see-your-feed\"-tab-without-having-logged-in",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "CT005: Accessing the \"Sign in to see your Feed\" Tab Without Having Logged In",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 35,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1259000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "click on the tab Sign in to see your Feed",
+            "result": {
+              "status": "passed",
+              "duration": 267000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 38,
+            "name": "Will load the login screen",
+            "result": {
+              "status": "passed",
+              "duration": 31000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct006:-validating-post-date",
+        "keyword": "Scenario",
+        "line": 40,
+        "name": "CT006: Validating Post Date",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 41,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1234000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 43,
+            "name": "In the post field, below the name must present the date \"Fri Dec 09 2022\"",
+            "result": {
+              "status": "passed",
+              "duration": 26000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct007:-tab-\"global-feed\"-validating-field-\"read-more\"",
+        "keyword": "Scenario",
+        "line": 45,
+        "name": "CT007: Tab \"Global Feed\" Validating Field \"Read More\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 46,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1962000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 48,
+            "name": "Click on the Read More field at the end of the post",
+            "result": {
+              "status": "passed",
+              "duration": 921000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 49,
+            "name": "will load a new page with the title of the post highlighted \"If we quantify the alarm, we can get to the FTP pi\"",
+            "result": {
+              "status": "passed",
+              "duration": 29000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct008:-read-more---validate-link-when-clicking-on-the-author's-name",
+        "keyword": "Scenario",
+        "line": 51,
+        "name": "CT008: Read More - Validate Link When Clicking On The Author's Name",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 52,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 53,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 54,
+            "name": "Click on the Read More field at the end of the post",
+            "result": {
+              "status": "passed",
+              "duration": 800000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 55,
+            "name": "Click on the name of the author \"Anah Benešová\" of the post",
+            "result": {
+              "status": "passed",
+              "duration": 1159000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 56,
+            "name": "You should load a new page with the author's name \"Anah Benešová\" as the title",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 57,
+            "name": "Below it should present 2 tabs \"Articles\" and \"Favorites\"",
+            "result": {
+              "status": "passed",
+              "duration": 48000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 58,
+            "name": "Must display all posts related to the selected author \"Anah Benešová\"",
+            "result": {
+              "status": "passed",
+              "duration": 52000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct009:-read-more---validate-link-\"sign-in\"",
+        "keyword": "Scenario",
+        "line": 60,
+        "name": "CT009: Read More - Validate Link \"Sign In\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 61,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1258000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 62,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 63,
+            "name": "Click on the Read More field at the end of the post",
+            "result": {
+              "status": "passed",
+              "duration": 780000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 64,
+            "name": "Click on the \"Sign in\" link at the bottom of the page",
+            "result": {
+              "status": "passed",
+              "duration": 252000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 65,
+            "name": "Will load the login screen",
+            "result": {
+              "status": "passed",
+              "duration": 30000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct010:-read-more---validate-link-\"sign-up\"",
+        "keyword": "Scenario",
+        "line": 67,
+        "name": "CT010: Read More - Validate Link \"Sign Up\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 68,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1204000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 69,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 70,
+            "name": "Click on the Read More field at the end of the post",
+            "result": {
+              "status": "passed",
+              "duration": 786000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 71,
+            "name": "Click on the \"sign up\" link at the bottom of the page",
+            "result": {
+              "status": "passed",
+              "duration": 224000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 72,
+            "name": "Will load the Sign Up screen",
+            "result": {
+              "status": "passed",
+              "duration": 27000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct011:-click-on-the-\"rerum\"-first-post",
+        "keyword": "Scenario",
+        "line": 74,
+        "name": "CT011: Click On The \"rerum\" First Post",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 75,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1196000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 76,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 77,
+            "name": "Click on the \"rerum\" link that is next to the red more of the first post",
+            "result": {
+              "status": "passed",
+              "duration": 1405000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 78,
+            "name": "Will display a new tab named \"rerum\"",
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct012:-click-on-the-\"maiores\"-first-post",
+        "keyword": "Scenario",
+        "line": 80,
+        "name": "CT012: Click On The \"maiores\" First Post",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 81,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1302000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 82,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 83,
+            "name": "Click on the \"maiores\" link that is next to the red more of the first post",
+            "result": {
+              "status": "passed",
+              "duration": 1001000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 84,
+            "name": "Will display a new tab named \"maiores\"",
+            "result": {
+              "status": "passed",
+              "duration": 22000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct013:-click-on-the-\"rerum\"-first-post-and-click-\"voluptate\"",
+        "keyword": "Scenario",
+        "line": 86,
+        "name": "CT013: Click On The \"rerum\" First Post and Click \"voluptate\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 87,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1383000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 88,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 89,
+            "name": "Click on the \"rerum\" link that is next to the red more of the first post",
+            "result": {
+              "status": "passed",
+              "duration": 1089000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 90,
+            "name": "Will display a new tab named \"rerum\"",
+            "result": {
+              "status": "passed",
+              "duration": 35000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 91,
+            "name": "Click on the \"voluptate\" link that is next to the red more of the first post",
+            "result": {
+              "status": "passed",
+              "duration": 1086000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 92,
+            "name": "Will display a new tab named \"voluptate\"",
+            "result": {
+              "status": "passed",
+              "duration": 31000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct014:-click-on-the-\"rerum\"-first-post-and-validate-\"read-more\"",
+        "keyword": "Scenario",
+        "line": 94,
+        "name": "CT014: Click On The \"rerum\" First Post and Validate \"Read More\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 95,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1361000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 96,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 97,
+            "name": "Click on the \"rerum\" link that is next to the red more of the first post",
+            "result": {
+              "status": "passed",
+              "duration": 1213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 98,
+            "name": "Will display a new tab named \"rerum\"",
+            "result": {
+              "status": "passed",
+              "duration": 27000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 99,
+            "name": "Click on the Read More field at the end of the post",
+            "result": {
+              "status": "passed",
+              "duration": 800000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 100,
+            "name": "will load a new page with the title of the post highlighted \"Try to transmit the HTTP card, maybe it will override the multi-byte hard driv\"",
+            "result": {
+              "status": "passed",
+              "duration": 30000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct015:-validating-field-\"popular-tags\"-tag-\"implementations\"",
+        "keyword": "Scenario",
+        "line": 102,
+        "name": "CT015: Validating Field \"Popular Tags\" tag \"Implementations\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 103,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1267000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 104,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 105,
+            "name": "click on the tab \"implementations\"",
+            "result": {
+              "status": "passed",
+              "duration": 1092000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 106,
+            "name": "Will display a new tab named \"implementations\"",
+            "result": {
+              "status": "passed",
+              "duration": 29000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct016:-validating-field-\"popular-tags\"-tag-\"implementations\"-read-more",
+        "keyword": "Scenario",
+        "line": 108,
+        "name": "CT016: Validating Field \"Popular Tags\" tag \"Implementations\" Read More",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 109,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1285000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 110,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 111,
+            "name": "click on the tab \"implementations\"",
+            "result": {
+              "status": "passed",
+              "duration": 1007000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 112,
+            "name": "Click on the Read More field at the end of the post",
+            "result": {
+              "status": "passed",
+              "duration": 884000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 113,
+            "name": "will load a new page with the title of the post highlighted \"Create a new implementation\"",
+            "result": {
+              "status": "passed",
+              "duration": 26000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-home-page;ct017:-validating-pagination",
+        "keyword": "Scenario",
+        "line": 115,
+        "name": "CT017: Validating Pagination",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 116,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1220000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 117,
+            "name": "Not logged in",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 118,
+            "name": "Scroll to the end of the page and click on page 2",
+            "result": {
+              "status": "passed",
+              "duration": 1507000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 119,
+            "name": "The page should be directed to tab 2",
+            "result": {
+              "status": "passed",
+              "duration": 13000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

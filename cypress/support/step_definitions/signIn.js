@@ -7,8 +7,13 @@ import {
 }
 from "cypress-cucumber-preprocessor/steps"
 import loc from "../../support/locators"
-
+import {
+    faker
+} from '@faker-js/faker';
 /// <reference types="cypress" />
+
+
+let email = faker.internet.email()
 
 Given("I access the home page", () => {
     cy.visit('')
@@ -36,4 +41,8 @@ Then("Should show an error message", () => {
 
 Then("the registration will be successful and the user name {string} will appear on the home screen", (user) => {
     cy.xpath(loc.LOGIN.FN_XP_USER(user)).should('contain', user)
+})
+
+Given("fill in the invalid email", () => {
+    cy.get(loc.SIGNUP.EMAIL).type(email)
 })

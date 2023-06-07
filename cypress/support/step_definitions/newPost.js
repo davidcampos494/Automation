@@ -15,7 +15,7 @@ import {
 
 const title = faker.helpers.fake('{{name.firstName}}')
 
-let text = title
+const text = title
 
 And("Who has logged into the application", () => {
     cy.register()

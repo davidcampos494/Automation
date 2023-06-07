@@ -33,15 +33,15 @@ Scenario: CT004: Validate Blank "Tag"
         And Fill in the description field with "Teste"
         And Fill in the body field with "Teste"
         When click on botton Publish Article
-        Then Must present a mandatory message "body can't be blank"
+        Then Post will be registered and the title will be highlighted
 
-Scenario: CT005: Registered Post
+Scenario: CT005: Validate Duplicate Title
         Given Fill in the title field with "Teste"
         And Fill in the description field with "Teste"
         And Fill in the body field with "Teste"
         And Fill in the tag field with "Teste"
         When click on botton Publish Article
-        Then Post will be registered and the title will be highlighted
+        Then Must present a mandatory message "title must be unique"
 
 
 

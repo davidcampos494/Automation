@@ -1,0 +1,392 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Validating Sign In",
+    "line": 1,
+    "id": "validating-sign-in",
+    "tags": [],
+    "uri": "signIn.feature",
+    "elements": [
+      {
+        "id": "validating-sign-in;ct001:-validating-link-\"need-an-account?\"",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "CT001: Validating link \"Need an account?\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 3076000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in Sign In",
+            "result": {
+              "status": "passed",
+              "duration": 336000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "Click on the link Need an account?",
+            "result": {
+              "status": "passed",
+              "duration": 381000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "Will load the Sign Up screen",
+            "result": {
+              "status": "passed",
+              "duration": 37000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct002:-invalid-\"email\"-and-\"password\"",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "CT002: Invalid \"Email\" and \"Password\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1319000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in Sign In",
+            "result": {
+              "status": "passed",
+              "duration": 223000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 13,
+            "name": "fill in the email field with any email",
+            "result": {
+              "status": "passed",
+              "duration": 771000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "fill in the password field with any password",
+            "result": {
+              "status": "passed",
+              "duration": 324000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Click on the Sign In Button",
+            "result": {
+              "status": "passed",
+              "duration": 180000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Should show an error message",
+            "result": {
+              "status": "passed",
+              "duration": 260000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct003:-validating-valid-\"email\"-wrong-\"password\"",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "CT003: Validating Valid \"Email\" Wrong \"Password\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1228000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in Sign In",
+            "result": {
+              "status": "passed",
+              "duration": 221000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "fill in the email field \"testeemail@teste2.com.br\"",
+            "result": {
+              "status": "passed",
+              "duration": 593000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "fill in the password field \"errado\"",
+            "result": {
+              "status": "passed",
+              "duration": 290000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "Click on the Sign In Button",
+            "result": {
+              "status": "passed",
+              "duration": 144000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "Should show an error message",
+            "result": {
+              "status": "passed",
+              "duration": 350000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct004:-invalid-\"email\"-and-valid-\"password\"",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "CT004: Invalid \"Email\" and Valid \"Password\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1179000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in Sign In",
+            "result": {
+              "status": "passed",
+              "duration": 220000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 25,
+            "name": "fill in the invalid email",
+            "result": {
+              "status": "passed",
+              "duration": 413000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 26,
+            "name": "fill in the password field \"teste\"",
+            "result": {
+              "status": "passed",
+              "duration": 268000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 27,
+            "name": "Click on the Sign In Button",
+            "result": {
+              "status": "passed",
+              "duration": 144000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "Should show an error message",
+            "result": {
+              "status": "passed",
+              "duration": 270000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct005:-accessing-with-valid-data",
+        "keyword": "Scenario",
+        "line": 30,
+        "name": "CT005: Accessing With Valid Data",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1210000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in Sign In",
+            "result": {
+              "status": "passed",
+              "duration": 226000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 31,
+            "name": "fill in the email field \"testeemail@teste2.com.br\"",
+            "result": {
+              "status": "passed",
+              "duration": 532000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "fill in the password field \"teste\"",
+            "result": {
+              "status": "passed",
+              "duration": 259000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 33,
+            "name": "Click on the Sign In Button",
+            "result": {
+              "status": "passed",
+              "duration": 145000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 34,
+            "name": "the registration will be successful and the user name \"Teste Name Completo\" will appear on the home screen",
+            "result": {
+              "status": "passed",
+              "duration": 1721000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
