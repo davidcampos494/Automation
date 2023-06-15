@@ -22,7 +22,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 3202000000
+              "duration": 3486000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 8000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 8000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "In the upper left corner you should display the title \"conduit\"",
             "result": {
               "status": "passed",
-              "duration": 85000000
+              "duration": 128000000
             }
           }
         ]
@@ -72,7 +72,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1264000000
+              "duration": 1450000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 6000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 5000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "It must present the field \"Global Feed\"",
             "result": {
               "status": "passed",
-              "duration": 43000000
+              "duration": 47000000
             }
           }
         ]
@@ -122,7 +122,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1278000000
+              "duration": 1306000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 5000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "Click on the name of the author \"Anah Benešová\" of the post",
             "result": {
               "status": "passed",
-              "duration": 1264000000
+              "duration": 1362000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "You should load a new page with the author's name \"Anah Benešová\" as the title",
             "result": {
               "status": "passed",
-              "duration": 35000000
+              "duration": 44000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "Below it should present 2 tabs \"Articles\" and \"Favorites\"",
             "result": {
               "status": "passed",
-              "duration": 52000000
+              "duration": 62000000
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "Must display all posts related to the selected author \"Anah Benešová\"",
             "result": {
               "status": "passed",
-              "duration": 55000000
+              "duration": 82000000
             }
           }
         ]
@@ -192,7 +192,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1313000000
+              "duration": 1477000000
             }
           },
           {
@@ -202,7 +202,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 4000000
             }
           },
           {
@@ -212,7 +212,7 @@
             "name": "Click on the image next to the author \"Anah Benešová\" of the post",
             "result": {
               "status": "passed",
-              "duration": 1163000000
+              "duration": 1317000000
             }
           },
           {
@@ -222,7 +222,7 @@
             "name": "You should load a new page with the author's name \"Anah Benešová\" as the title",
             "result": {
               "status": "passed",
-              "duration": 23000000
+              "duration": 30000000
             }
           },
           {
@@ -232,7 +232,7 @@
             "name": "Below it should present 2 tabs \"Articles\" and \"Favorites\"",
             "result": {
               "status": "passed",
-              "duration": 47000000
+              "duration": 52000000
             }
           }
         ]
@@ -252,7 +252,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1259000000
+              "duration": 1770000000
             }
           },
           {
@@ -262,7 +262,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 4000000
             }
           },
           {
@@ -272,7 +272,7 @@
             "name": "click on the tab Sign in to see your Feed",
             "result": {
               "status": "passed",
-              "duration": 267000000
+              "duration": 371000000
             }
           },
           {
@@ -282,7 +282,7 @@
             "name": "Will load the login screen",
             "result": {
               "status": "passed",
-              "duration": 31000000
+              "duration": 39000000
             }
           }
         ]
@@ -302,7 +302,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1234000000
+              "duration": 1628000000
             }
           },
           {
@@ -312,7 +312,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 5000000
             }
           },
           {
@@ -322,7 +322,7 @@
             "name": "In the post field, below the name must present the date \"Fri Dec 09 2022\"",
             "result": {
               "status": "passed",
-              "duration": 26000000
+              "duration": 30000000
             }
           }
         ]
@@ -342,7 +342,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1962000000
+              "duration": 1310000000
             }
           },
           {
@@ -352,27 +352,27 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 4000000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 48,
-            "name": "Click on the Read More field at the end of the post",
+            "name": "Click on the Read More field at the end of the post with the title \"Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!\"",
             "result": {
               "status": "passed",
-              "duration": 921000000
+              "duration": 900000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
             "line": 49,
-            "name": "will load a new page with the title of the post highlighted \"If we quantify the alarm, we can get to the FTP pi\"",
+            "name": "will load a new page with the title of the post highlighted \"Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!\"",
             "result": {
               "status": "passed",
-              "duration": 29000000
+              "duration": 38000000
             }
           }
         ]
@@ -392,7 +392,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1213000000
+              "duration": 1378000000
             }
           },
           {
@@ -412,7 +412,7 @@
             "name": "Click on the Read More field at the end of the post",
             "result": {
               "status": "passed",
-              "duration": 800000000
+              "duration": 904000000
             }
           },
           {
@@ -422,7 +422,7 @@
             "name": "Click on the name of the author \"Anah Benešová\" of the post",
             "result": {
               "status": "passed",
-              "duration": 1159000000
+              "duration": 1230000000
             }
           },
           {
@@ -432,7 +432,7 @@
             "name": "You should load a new page with the author's name \"Anah Benešová\" as the title",
             "result": {
               "status": "passed",
-              "duration": 24000000
+              "duration": 32000000
             }
           },
           {
@@ -442,7 +442,7 @@
             "name": "Below it should present 2 tabs \"Articles\" and \"Favorites\"",
             "result": {
               "status": "passed",
-              "duration": 48000000
+              "duration": 57000000
             }
           },
           {
@@ -452,7 +452,7 @@
             "name": "Must display all posts related to the selected author \"Anah Benešová\"",
             "result": {
               "status": "passed",
-              "duration": 52000000
+              "duration": 67000000
             }
           }
         ]
@@ -472,7 +472,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1258000000
+              "duration": 1335000000
             }
           },
           {
@@ -482,7 +482,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 3000000
             }
           },
           {
@@ -492,7 +492,7 @@
             "name": "Click on the Read More field at the end of the post",
             "result": {
               "status": "passed",
-              "duration": 780000000
+              "duration": 903000000
             }
           },
           {
@@ -502,7 +502,7 @@
             "name": "Click on the \"Sign in\" link at the bottom of the page",
             "result": {
               "status": "passed",
-              "duration": 252000000
+              "duration": 308000000
             }
           },
           {
@@ -512,7 +512,7 @@
             "name": "Will load the login screen",
             "result": {
               "status": "passed",
-              "duration": 30000000
+              "duration": 37000000
             }
           }
         ]
@@ -532,7 +532,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1204000000
+              "duration": 1349000000
             }
           },
           {
@@ -552,7 +552,7 @@
             "name": "Click on the Read More field at the end of the post",
             "result": {
               "status": "passed",
-              "duration": 786000000
+              "duration": 907000000
             }
           },
           {
@@ -562,7 +562,7 @@
             "name": "Click on the \"sign up\" link at the bottom of the page",
             "result": {
               "status": "passed",
-              "duration": 224000000
+              "duration": 348000000
             }
           },
           {
@@ -572,7 +572,7 @@
             "name": "Will load the Sign Up screen",
             "result": {
               "status": "passed",
-              "duration": 27000000
+              "duration": 34000000
             }
           }
         ]
@@ -592,7 +592,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1196000000
+              "duration": 1354000000
             }
           },
           {
@@ -602,7 +602,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 4000000
             }
           },
           {
@@ -612,7 +612,7 @@
             "name": "Click on the \"rerum\" link that is next to the red more of the first post",
             "result": {
               "status": "passed",
-              "duration": 1405000000
+              "duration": 1533000000
             }
           },
           {
@@ -622,7 +622,7 @@
             "name": "Will display a new tab named \"rerum\"",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 47000000
             }
           }
         ]
@@ -642,7 +642,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1302000000
+              "duration": 1356000000
             }
           },
           {
@@ -652,7 +652,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 5000000
             }
           },
           {
@@ -662,7 +662,7 @@
             "name": "Click on the \"maiores\" link that is next to the red more of the first post",
             "result": {
               "status": "passed",
-              "duration": 1001000000
+              "duration": 1121000000
             }
           },
           {
@@ -672,7 +672,7 @@
             "name": "Will display a new tab named \"maiores\"",
             "result": {
               "status": "passed",
-              "duration": 22000000
+              "duration": 34000000
             }
           }
         ]
@@ -692,7 +692,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1383000000
+              "duration": 1490000000
             }
           },
           {
@@ -702,7 +702,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 4000000
             }
           },
           {
@@ -712,7 +712,7 @@
             "name": "Click on the \"rerum\" link that is next to the red more of the first post",
             "result": {
               "status": "passed",
-              "duration": 1089000000
+              "duration": 1144000000
             }
           },
           {
@@ -722,7 +722,7 @@
             "name": "Will display a new tab named \"rerum\"",
             "result": {
               "status": "passed",
-              "duration": 35000000
+              "duration": 30000000
             }
           },
           {
@@ -732,7 +732,7 @@
             "name": "Click on the \"voluptate\" link that is next to the red more of the first post",
             "result": {
               "status": "passed",
-              "duration": 1086000000
+              "duration": 1123000000
             }
           },
           {
@@ -742,7 +742,7 @@
             "name": "Will display a new tab named \"voluptate\"",
             "result": {
               "status": "passed",
-              "duration": 31000000
+              "duration": 58000000
             }
           }
         ]
@@ -762,7 +762,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1361000000
+              "duration": 1466000000
             }
           },
           {
@@ -772,7 +772,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 5000000
             }
           },
           {
@@ -782,7 +782,7 @@
             "name": "Click on the \"rerum\" link that is next to the red more of the first post",
             "result": {
               "status": "passed",
-              "duration": 1213000000
+              "duration": 1119000000
             }
           },
           {
@@ -792,7 +792,7 @@
             "name": "Will display a new tab named \"rerum\"",
             "result": {
               "status": "passed",
-              "duration": 27000000
+              "duration": 31000000
             }
           },
           {
@@ -802,7 +802,7 @@
             "name": "Click on the Read More field at the end of the post",
             "result": {
               "status": "passed",
-              "duration": 800000000
+              "duration": 917000000
             }
           },
           {
@@ -812,7 +812,7 @@
             "name": "will load a new page with the title of the post highlighted \"Try to transmit the HTTP card, maybe it will override the multi-byte hard driv\"",
             "result": {
               "status": "passed",
-              "duration": 30000000
+              "duration": 40000000
             }
           }
         ]
@@ -832,7 +832,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1267000000
+              "duration": 1488000000
             }
           },
           {
@@ -842,7 +842,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 3000000
             }
           },
           {
@@ -852,7 +852,7 @@
             "name": "click on the tab \"implementations\"",
             "result": {
               "status": "passed",
-              "duration": 1092000000
+              "duration": 1233000000
             }
           },
           {
@@ -882,7 +882,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1285000000
+              "duration": 1634000000
             }
           },
           {
@@ -902,7 +902,7 @@
             "name": "click on the tab \"implementations\"",
             "result": {
               "status": "passed",
-              "duration": 1007000000
+              "duration": 1331000000
             }
           },
           {
@@ -912,7 +912,7 @@
             "name": "Click on the Read More field at the end of the post",
             "result": {
               "status": "passed",
-              "duration": 884000000
+              "duration": 972000000
             }
           },
           {
@@ -922,7 +922,7 @@
             "name": "will load a new page with the title of the post highlighted \"Create a new implementation\"",
             "result": {
               "status": "passed",
-              "duration": 26000000
+              "duration": 37000000
             }
           }
         ]
@@ -942,7 +942,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1220000000
+              "duration": 1430000000
             }
           },
           {
@@ -952,7 +952,7 @@
             "name": "Not logged in",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 6000000
             }
           },
           {
@@ -962,7 +962,7 @@
             "name": "Scroll to the end of the page and click on page 2",
             "result": {
               "status": "passed",
-              "duration": 1507000000
+              "duration": 1323000000
             }
           },
           {
@@ -972,7 +972,7 @@
             "name": "The page should be directed to tab 2",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 12000000
             }
           }
         ]

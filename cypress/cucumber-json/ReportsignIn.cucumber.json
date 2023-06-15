@@ -22,7 +22,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 3076000000
+              "duration": 3266000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 14000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 336000000
+              "duration": 473000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "Click on the link Need an account?",
             "result": {
               "status": "passed",
-              "duration": 381000000
+              "duration": 382000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "Will load the Sign Up screen",
             "result": {
               "status": "passed",
-              "duration": 37000000
+              "duration": 62000000
             }
           }
         ]
@@ -82,7 +82,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1319000000
+              "duration": 1675000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 7000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 223000000
+              "duration": 258000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "fill in the email field with any email",
             "result": {
               "status": "passed",
-              "duration": 771000000
+              "duration": 812000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "fill in the password field with any password",
             "result": {
               "status": "passed",
-              "duration": 324000000
+              "duration": 422000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 180000000
+              "duration": 169000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "Should show an error message",
             "result": {
               "status": "passed",
-              "duration": 260000000
+              "duration": 284000000
             }
           }
         ]
@@ -162,7 +162,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1228000000
+              "duration": 1337000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 221000000
+              "duration": 266000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 593000000
+              "duration": 700000000
             }
           },
           {
@@ -202,7 +202,7 @@
             "name": "fill in the password field \"errado\"",
             "result": {
               "status": "passed",
-              "duration": 290000000
+              "duration": 398000000
             }
           },
           {
@@ -212,7 +212,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 144000000
+              "duration": 160000000
             }
           },
           {
@@ -222,7 +222,7 @@
             "name": "Should show an error message",
             "result": {
               "status": "passed",
-              "duration": 350000000
+              "duration": 365000000
             }
           }
         ]
@@ -242,7 +242,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1179000000
+              "duration": 1420000000
             }
           },
           {
@@ -252,7 +252,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 4000000
             }
           },
           {
@@ -262,7 +262,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 220000000
+              "duration": 250000000
             }
           },
           {
@@ -272,7 +272,7 @@
             "name": "fill in the invalid email",
             "result": {
               "status": "passed",
-              "duration": 413000000
+              "duration": 656000000
             }
           },
           {
@@ -282,7 +282,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 268000000
+              "duration": 357000000
             }
           },
           {
@@ -292,7 +292,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 144000000
+              "duration": 166000000
             }
           },
           {
@@ -302,7 +302,7 @@
             "name": "Should show an error message",
             "result": {
               "status": "passed",
-              "duration": 270000000
+              "duration": 276000000
             }
           }
         ]
@@ -322,7 +322,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1210000000
+              "duration": 1379000000
             }
           },
           {
@@ -332,7 +332,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 5000000
             }
           },
           {
@@ -342,7 +342,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 226000000
+              "duration": 268000000
             }
           },
           {
@@ -352,7 +352,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 532000000
+              "duration": 526000000
             }
           },
           {
@@ -362,7 +362,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 259000000
+              "duration": 269000000
             }
           },
           {
@@ -372,7 +372,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 145000000
+              "duration": 144000000
             }
           },
           {
@@ -382,7 +382,7 @@
             "name": "the registration will be successful and the user name \"Teste Name Completo\" will appear on the home screen",
             "result": {
               "status": "passed",
-              "duration": 1721000000
+              "duration": 1312000000
             }
           }
         ]

@@ -1,7 +1,7 @@
 Feature: Validating Home Page
 
 # Background: 
-#     Given I access the home page
+# #     Given I access the home page
 
 Scenario: CT001: Validating Home Page Title
         Given I access the home page
@@ -45,8 +45,8 @@ Scenario: CT006: Validating Post Date
 Scenario: CT007: Tab "Global Feed" Validating Field "Read More"
         Given I access the home page
         And Not logged in
-        When Click on the Read More field at the end of the post
-        Then will load a new page with the title of the post highlighted "If we quantify the alarm, we can get to the FTP pi"
+        When Click on the Read More field at the end of the post with the title "Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!"
+        Then will load a new page with the title of the post highlighted "Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!"
 
 Scenario: CT008: Read More - Validate Link When Clicking On The Author's Name
         Given I access the home page

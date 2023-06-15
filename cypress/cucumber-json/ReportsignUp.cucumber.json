@@ -22,7 +22,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 2950000000
+              "duration": 3261000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 6000000
+              "duration": 14000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Click in \"Sign up\"",
             "result": {
               "status": "passed",
-              "duration": 355000000
+              "duration": 494000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "click on the link Have an account?",
             "result": {
               "status": "passed",
-              "duration": 294000000
+              "duration": 437000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "Will load the login screen",
             "result": {
               "status": "passed",
-              "duration": 38000000
+              "duration": 59000000
             }
           }
         ]
@@ -82,7 +82,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1268000000
+              "duration": 1923000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "Click in \"Sign up\"",
             "result": {
               "status": "passed",
-              "duration": 235000000
+              "duration": 260000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "Didn't fill in any fields",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 6000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "Click on the Sign Up Button",
             "result": {
               "status": "passed",
-              "duration": 175000000
+              "duration": 185000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "Must display the message \"Preencha este campo.\" in the field Your Name",
             "result": {
               "status": "passed",
-              "duration": 27000000
+              "duration": 48000000
             }
           }
         ]
@@ -152,7 +152,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1187000000
+              "duration": 2022000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "Page load",
             "result": {
               "status": "passed",
-              "duration": 4000000
+              "duration": 6000000
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "Click in \"Sign up\"",
             "result": {
               "status": "passed",
-              "duration": 235000000
+              "duration": 331000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "fill in the email field \"teste@teste.com\"",
             "result": {
               "status": "passed",
-              "duration": 480000000
+              "duration": 570000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 287000000
+              "duration": 328000000
             }
           },
           {
@@ -202,7 +202,7 @@
             "name": "Click on the Sign Up Button",
             "result": {
               "status": "passed",
-              "duration": 175000000
+              "duration": 245000000
             }
           },
           {
@@ -212,7 +212,7 @@
             "name": "Must display the message \"Preencha este campo.\" in the field Your Name",
             "result": {
               "status": "passed",
-              "duration": 25000000
+              "duration": 47000000
             }
           }
         ]
@@ -232,167 +232,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1171000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 5,
-            "name": "Page load",
-            "result": {
-              "status": "passed",
-              "duration": 3000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 6,
-            "name": "Click in \"Sign up\"",
-            "result": {
-              "status": "passed",
-              "duration": 320000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 24,
-            "name": "fill in the username field \"teste@teste.com\"",
-            "result": {
-              "status": "passed",
-              "duration": 434000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 25,
-            "name": "fill in the password field \"teste\"",
-            "result": {
-              "status": "passed",
-              "duration": 261000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 26,
-            "name": "Click on the Sign Up Button",
-            "result": {
-              "status": "passed",
-              "duration": 197000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 27,
-            "name": "Must display the message \"Preencha este campo.\" in the field email",
-            "result": {
-              "status": "passed",
-              "duration": 25000000
-            }
-          }
-        ]
-      },
-      {
-        "id": "validating-sign-in;ct005:-validate-field-required-field-of-field-\"password\"",
-        "keyword": "Scenario",
-        "line": 29,
-        "name": "CT005: Validate Field Required Field of Field \"Password\"",
-        "tags": [],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 4,
-            "name": "I access the home page",
-            "result": {
-              "status": "passed",
-              "duration": 1834000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 5,
-            "name": "Page load",
-            "result": {
-              "status": "passed",
-              "duration": 3000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 6,
-            "name": "Click in \"Sign up\"",
-            "result": {
-              "status": "passed",
-              "duration": 241000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 30,
-            "name": "fill in the username field \"teste name\"",
-            "result": {
-              "status": "passed",
-              "duration": 406000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 31,
-            "name": "fill in the email field \"teste@teste.com\"",
-            "result": {
-              "status": "passed",
-              "duration": 407000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 32,
-            "name": "Click on the Sign Up Button",
-            "result": {
-              "status": "passed",
-              "duration": 167000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 33,
-            "name": "Must display the message \"Preencha este campo.\" in the field password",
-            "result": {
-              "status": "passed",
-              "duration": 20000000
-            }
-          }
-        ]
-      },
-      {
-        "id": "validating-sign-in;ct006:-validating-email-without-the-\"@\"",
-        "keyword": "Scenario",
-        "line": 35,
-        "name": "CT006: Validating Email Without the \"@\"",
-        "tags": [],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 4,
-            "name": "I access the home page",
-            "result": {
-              "status": "passed",
-              "duration": 1279000000
+              "duration": 1657000000
             }
           },
           {
@@ -412,7 +252,167 @@
             "name": "Click in \"Sign up\"",
             "result": {
               "status": "passed",
-              "duration": 215000000
+              "duration": 265000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "fill in the username field \"teste@teste.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 492000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "fill in the password field \"teste\"",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "Click on the Sign Up Button",
+            "result": {
+              "status": "passed",
+              "duration": 245000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "Must display the message \"Preencha este campo.\" in the field email",
+            "result": {
+              "status": "passed",
+              "duration": 41000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct005:-validate-field-required-field-of-field-\"password\"",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "CT005: Validate Field Required Field of Field \"Password\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1874000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in \"Sign up\"",
+            "result": {
+              "status": "passed",
+              "duration": 283000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "fill in the username field \"teste name\"",
+            "result": {
+              "status": "passed",
+              "duration": 418000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "fill in the email field \"teste@teste.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 568000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 32,
+            "name": "Click on the Sign Up Button",
+            "result": {
+              "status": "passed",
+              "duration": 170000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 33,
+            "name": "Must display the message \"Preencha este campo.\" in the field password",
+            "result": {
+              "status": "passed",
+              "duration": 31000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct006:-validating-email-without-the-\"@\"",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "CT006: Validating Email Without the \"@\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1400000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in \"Sign up\"",
+            "result": {
+              "status": "passed",
+              "duration": 248000000
             }
           },
           {
@@ -422,7 +422,7 @@
             "name": "fill in the username field \"teste name\"",
             "result": {
               "status": "passed",
-              "duration": 361000000
+              "duration": 381000000
             }
           },
           {
@@ -432,7 +432,7 @@
             "name": "fill in the email field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 283000000
+              "duration": 435000000
             }
           },
           {
@@ -442,7 +442,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 279000000
+              "duration": 326000000
             }
           },
           {
@@ -452,7 +452,7 @@
             "name": "Click on the Sign Up Button",
             "result": {
               "status": "passed",
-              "duration": 143000000
+              "duration": 176000000
             }
           },
           {
@@ -462,7 +462,7 @@
             "name": "Must display the message 'Inclua um \"@\"' in the field email",
             "result": {
               "status": "passed",
-              "duration": 23000000
+              "duration": 26000000
             }
           }
         ]
@@ -482,7 +482,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1452000000
+              "duration": 1741000000
             }
           },
           {
@@ -502,7 +502,7 @@
             "name": "Click in \"Sign up\"",
             "result": {
               "status": "passed",
-              "duration": 240000000
+              "duration": 356000000
             }
           },
           {
@@ -512,7 +512,7 @@
             "name": "fill in the username field \"teste name\"",
             "result": {
               "status": "passed",
-              "duration": 386000000
+              "duration": 439000000
             }
           },
           {
@@ -522,7 +522,7 @@
             "name": "fill in the email field \"teste@\"",
             "result": {
               "status": "passed",
-              "duration": 280000000
+              "duration": 446000000
             }
           },
           {
@@ -532,7 +532,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 267000000
+              "duration": 318000000
             }
           },
           {
@@ -542,7 +542,7 @@
             "name": "Click on the Sign Up Button",
             "result": {
               "status": "passed",
-              "duration": 153000000
+              "duration": 171000000
             }
           },
           {
@@ -552,7 +552,7 @@
             "name": "Must display the message 'Insira uma parte' in the field email",
             "result": {
               "status": "passed",
-              "duration": 26000000
+              "duration": 38000000
             }
           }
         ]
@@ -572,97 +572,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1275000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 5,
-            "name": "Page load",
-            "result": {
-              "status": "passed",
-              "duration": 3000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 6,
-            "name": "Click in \"Sign up\"",
-            "result": {
-              "status": "passed",
-              "duration": 216000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 50,
-            "name": "fill in the username field \"Name\"",
-            "result": {
-              "status": "passed",
-              "duration": 292000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 51,
-            "name": "fill in the email field \"teste@teste.com\"",
-            "result": {
-              "status": "passed",
-              "duration": 408000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 52,
-            "name": "fill in the password field \"teste\"",
-            "result": {
-              "status": "passed",
-              "duration": 251000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 53,
-            "name": "Click on the Sign Up Button",
-            "result": {
-              "status": "passed",
-              "duration": 167000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 54,
-            "name": "It should display the message in red \"email has already been taken\"",
-            "result": {
-              "status": "passed",
-              "duration": 270000000
-            }
-          }
-        ]
-      },
-      {
-        "id": "validating-sign-in;ct009:-performing-a-successful-registration",
-        "keyword": "Scenario",
-        "line": 56,
-        "name": "CT009: Performing a Successful Registration",
-        "tags": [],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 4,
-            "name": "I access the home page",
-            "result": {
-              "status": "passed",
-              "duration": 1198000000
+              "duration": 1514000000
             }
           },
           {
@@ -682,7 +592,97 @@
             "name": "Click in \"Sign up\"",
             "result": {
               "status": "passed",
-              "duration": 209000000
+              "duration": 287000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 50,
+            "name": "fill in the username field \"Name\"",
+            "result": {
+              "status": "passed",
+              "duration": 369000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 51,
+            "name": "fill in the email field \"teste@teste.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 546000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 52,
+            "name": "fill in the password field \"teste\"",
+            "result": {
+              "status": "passed",
+              "duration": 293000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 53,
+            "name": "Click on the Sign Up Button",
+            "result": {
+              "status": "passed",
+              "duration": 157000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 54,
+            "name": "It should display the message in red \"email has already been taken\"",
+            "result": {
+              "status": "passed",
+              "duration": 289000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validating-sign-in;ct009:-performing-a-successful-registration",
+        "keyword": "Scenario",
+        "line": 56,
+        "name": "CT009: Performing a Successful Registration",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I access the home page",
+            "result": {
+              "status": "passed",
+              "duration": 1456000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Page load",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Click in \"Sign up\"",
+            "result": {
+              "status": "passed",
+              "duration": 285000000
             }
           },
           {
@@ -692,7 +692,7 @@
             "name": "fill in the username field with any name",
             "result": {
               "status": "passed",
-              "duration": 404000000
+              "duration": 464000000
             }
           },
           {
@@ -702,7 +702,7 @@
             "name": "fill in the email field with any email",
             "result": {
               "status": "passed",
-              "duration": 577000000
+              "duration": 844000000
             }
           },
           {
@@ -712,7 +712,7 @@
             "name": "fill in the password field with any password",
             "result": {
               "status": "passed",
-              "duration": 302000000
+              "duration": 366000000
             }
           },
           {
@@ -722,7 +722,7 @@
             "name": "Click on the Sign Up Button",
             "result": {
               "status": "passed",
-              "duration": 146000000
+              "duration": 173000000
             }
           },
           {
@@ -732,7 +732,7 @@
             "name": "the registration will be successful and the user name will appear on the home screen",
             "result": {
               "status": "passed",
-              "duration": 1450000000
+              "duration": 1658000000
             }
           }
         ]

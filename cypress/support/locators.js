@@ -7,6 +7,7 @@ const locators = {
         XP_SIGNIN_FEED: "//a[normalize-space()='Sign in to see your Feed']",
         FN_XP_TAGS: tag => `//a[normalize-space()='${tag}']`,
         XP_READ_MORE: "(//span[contains(text(),'Read more...')])[1]",
+        FN_XP_READ_MORE: title => `(//h1[contains(text(),'${title}')])[1]//..//span`,
         XP_TITLE_READ_MORE: title => `//h1[contains(text(),'${title}')]`,
         FN_XP_Date: date => `(//span[@class='date'][normalize-space()='${date}'])[1]`,
         FN_XP_ALL_AUTHORS: authors => `(//a[@class='author'][contains(text(),'${authors}')])`,

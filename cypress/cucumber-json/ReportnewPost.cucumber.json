@@ -22,7 +22,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 2994000000
+              "duration": 3224000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 378000000
+              "duration": 497000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 671000000
+              "duration": 784000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 326000000
+              "duration": 406000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 192000000
+              "duration": 183000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "Click on the New Post",
             "result": {
               "status": "passed",
-              "duration": 1493000000
+              "duration": 1414000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "Don't fill in any fields",
             "result": {
               "status": "passed",
-              "duration": 5000000
+              "duration": 8000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "click on botton Publish Article",
             "result": {
               "status": "passed",
-              "duration": 384000000
+              "duration": 479000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "Must present a mandatory message \"title can't be blank\"",
             "result": {
               "status": "passed",
-              "duration": 291000000
+              "duration": 319000000
             }
           }
         ]
@@ -122,7 +122,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1229000000
+              "duration": 1224000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 212000000
+              "duration": 306000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 606000000
+              "duration": 637000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 301000000
+              "duration": 350000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 147000000
+              "duration": 210000000
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "Click on the New Post",
             "result": {
               "status": "passed",
-              "duration": 1388000000
+              "duration": 1397000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "Fill in the title field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 413000000
+              "duration": 543000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "Fill in the body field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 288000000
+              "duration": 319000000
             }
           },
           {
@@ -202,7 +202,7 @@
             "name": "Fill in the tag field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 300000000
+              "duration": 317000000
             }
           },
           {
@@ -212,7 +212,7 @@
             "name": "click on botton Publish Article",
             "result": {
               "status": "passed",
-              "duration": 167000000
+              "duration": 244000000
             }
           },
           {
@@ -222,7 +222,7 @@
             "name": "Must present a mandatory message \"description can't be blank\"",
             "result": {
               "status": "passed",
-              "duration": 284000000
+              "duration": 350000000
             }
           }
         ]
@@ -242,7 +242,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1150000000
+              "duration": 1530000000
             }
           },
           {
@@ -252,7 +252,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 224000000
+              "duration": 268000000
             }
           },
           {
@@ -262,7 +262,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 564000000
+              "duration": 613000000
             }
           },
           {
@@ -272,7 +272,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 266000000
+              "duration": 365000000
             }
           },
           {
@@ -282,7 +282,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 149000000
+              "duration": 216000000
             }
           },
           {
@@ -292,7 +292,7 @@
             "name": "Click on the New Post",
             "result": {
               "status": "passed",
-              "duration": 1309000000
+              "duration": 1389000000
             }
           },
           {
@@ -302,7 +302,7 @@
             "name": "Fill in the title field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 346000000
+              "duration": 450000000
             }
           },
           {
@@ -312,7 +312,7 @@
             "name": "Fill in the description field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 284000000
+              "duration": 286000000
             }
           },
           {
@@ -322,7 +322,7 @@
             "name": "Fill in the tag field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 300000000
+              "duration": 284000000
             }
           },
           {
@@ -332,7 +332,7 @@
             "name": "click on botton Publish Article",
             "result": {
               "status": "passed",
-              "duration": 174000000
+              "duration": 177000000
             }
           },
           {
@@ -342,7 +342,7 @@
             "name": "Must present a mandatory message \"body can't be blank\"",
             "result": {
               "status": "passed",
-              "duration": 273000000
+              "duration": 315000000
             }
           }
         ]
@@ -362,7 +362,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1619000000
+              "duration": 1287000000
             }
           },
           {
@@ -372,7 +372,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 225000000
+              "duration": 281000000
             }
           },
           {
@@ -382,7 +382,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 545000000
+              "duration": 542000000
             }
           },
           {
@@ -392,7 +392,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 274000000
+              "duration": 279000000
             }
           },
           {
@@ -402,7 +402,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 142000000
+              "duration": 176000000
             }
           },
           {
@@ -412,7 +412,7 @@
             "name": "Click on the New Post",
             "result": {
               "status": "passed",
-              "duration": 1278000000
+              "duration": 1482000000
             }
           },
           {
@@ -422,7 +422,7 @@
             "name": "Fill in the title field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 386000000
+              "duration": 532000000
             }
           },
           {
@@ -432,7 +432,7 @@
             "name": "Fill in the description field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 272000000
+              "duration": 304000000
             }
           },
           {
@@ -442,7 +442,7 @@
             "name": "Fill in the body field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 284000000
+              "duration": 353000000
             }
           },
           {
@@ -452,7 +452,7 @@
             "name": "click on botton Publish Article",
             "result": {
               "status": "passed",
-              "duration": 166000000
+              "duration": 208000000
             }
           },
           {
@@ -462,7 +462,7 @@
             "name": "Post will be registered and the title will be highlighted",
             "result": {
               "status": "passed",
-              "duration": 835000000
+              "duration": 920000000
             }
           }
         ]
@@ -482,7 +482,7 @@
             "name": "I access the home page",
             "result": {
               "status": "passed",
-              "duration": 1252000000
+              "duration": 1321000000
             }
           },
           {
@@ -492,7 +492,7 @@
             "name": "Click in Sign In",
             "result": {
               "status": "passed",
-              "duration": 205000000
+              "duration": 298000000
             }
           },
           {
@@ -502,7 +502,7 @@
             "name": "fill in the email field \"testeemail@teste2.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 504000000
+              "duration": 566000000
             }
           },
           {
@@ -512,7 +512,7 @@
             "name": "fill in the password field \"teste\"",
             "result": {
               "status": "passed",
-              "duration": 266000000
+              "duration": 311000000
             }
           },
           {
@@ -522,7 +522,7 @@
             "name": "Click on the Sign In Button",
             "result": {
               "status": "passed",
-              "duration": 135000000
+              "duration": 851000000
             }
           },
           {
@@ -532,7 +532,7 @@
             "name": "Click on the New Post",
             "result": {
               "status": "passed",
-              "duration": 1469000000
+              "duration": 478000000
             }
           },
           {
@@ -542,7 +542,7 @@
             "name": "Fill in the title field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 387000000
+              "duration": 480000000
             }
           },
           {
@@ -552,7 +552,7 @@
             "name": "Fill in the description field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 266000000
+              "duration": 346000000
             }
           },
           {
@@ -562,7 +562,7 @@
             "name": "Fill in the body field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 290000000
+              "duration": 354000000
             }
           },
           {
@@ -572,7 +572,7 @@
             "name": "Fill in the tag field with \"Teste\"",
             "result": {
               "status": "passed",
-              "duration": 295000000
+              "duration": 349000000
             }
           },
           {
@@ -582,7 +582,7 @@
             "name": "click on botton Publish Article",
             "result": {
               "status": "passed",
-              "duration": 166000000
+              "duration": 784000000
             }
           },
           {
@@ -592,7 +592,7 @@
             "name": "Must present a mandatory message \"title must be unique\"",
             "result": {
               "status": "passed",
-              "duration": 309000000
+              "duration": 56000000
             }
           }
         ]

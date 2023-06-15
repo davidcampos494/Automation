@@ -67,6 +67,9 @@ Then("In the post field, below the name must present the date {string}", (date) 
 When("Click on the Read More field at the end of the post", () => {
     cy.xpath(loc.HOME.XP_READ_MORE).click()
 })
+When("Click on the Read More field at the end of the post with the title {string}", (title) => {
+    cy.xpath(loc.HOME.FN_XP_READ_MORE(title)).click()
+})
 
 Then("will load a new page with the title of the post highlighted {string}", (title) => {
     cy.xpath(loc.HOME.XP_TITLE_READ_MORE(title)).should('contain', title)
